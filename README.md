@@ -12,6 +12,8 @@ H264Hero is a Python utility that automatically converts videos to **MP4 with H.
 - ✅ Allows **single file, multiple files, or full folder batch conversion**  
 - ✅ Adds `_converted` suffix to output files to prevent overwriting originals  
 - ✅ Optimized for **fast streaming** with `+faststart` flag  
+- ✅ All corrected converted video will be in a folder called "converted"
+- ✅ The one who fails will keep the original file only
 
 ---
 
