@@ -145,4 +145,4 @@ def main():
         print("❌ Scelta non valida")
 
 if __name__ == "__main__":
-    main()
+    main() 
